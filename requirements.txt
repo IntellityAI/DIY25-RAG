@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-huggingface
+langchain-postgres
+python-dotenv
+faiss-cpu
+tiktoken
+pdfminer.six
